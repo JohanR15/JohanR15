@@ -1,3 +1,14 @@
+# Johan Rios
+## Cualidades 
+
+1. Estudiante 
+2. Trabajo en equipo
+3. Manejo de HTML, CSS y JavaScript
+
+
+![Johan](https://user-images.githubusercontent.com/100798824/166823245-f8bd69b8-3602-49a8-bcde-c640d8bd80d3.png)
+
+
 ### Hi there 👋
 
 <!--
